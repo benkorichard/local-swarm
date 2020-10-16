@@ -1,0 +1,9 @@
+.vagrant
+*.log
+*.token
+temp
+*.iso
+*.iso*
+jenkins_home
+my-services
+data
